@@ -1,19 +1,18 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/gusdrawn/cocobar.cl)
+  ![GitHub stars](https://img.shields.io/github/stars/gusdrawn/cocobar.cl?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/gusdrawn/cocobar.cl?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/gusdrawn?style=social)](https://twitter.com/intent/follow?screen_name=gusdrawn)
 
   <br />
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Cocobar.cl - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Cocobarbar.cl is a website forked from Grilli. It is a fully responsive restaurant website, designed to be compatible with all devices. The website was built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://gusdrawn.github.io/cocobar.cl/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +35,18 @@ To run **Grilli** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/gusdrawn/cocobar.cl.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/gusdrawn/cocobar.cl.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/gusdrawn).
 
 ### License
 
